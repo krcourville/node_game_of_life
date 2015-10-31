@@ -1,0 +1,22 @@
+{
+  "name": "node_game_of_life",
+  "version": "1.0.0",
+  "description": "A Game of Life simulator, written in Node",
+  "dependencies": {
+    "jasmine-node": "^1.14.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jasmine-node spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krcourville/node_game_of_life.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krcourville/node_game_of_life/issues"
+  },
+  "homepage": "https://github.com/krcourville/node_game_of_life#readme"
+}
