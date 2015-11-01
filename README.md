@@ -9,7 +9,7 @@ A Game of Life simulator, written in Node
   2. `npm install`
 
 # Execution
-Input is expected to from stdin. Use platform-specific redirection to cycle.js
+Input is read from stdin. Use platform-specific redirection to cycle.js such as `node cycle.js < input.txt`.
 
 See `wintest/test.cmd` for an example command line for Windows.
 
