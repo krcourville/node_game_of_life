@@ -11,10 +11,11 @@ A Game of Life simulator, written in Node
 # Execution
 Input is read from stdin. Use platform-specific redirection to cycle.js such as `node cycle.js < input.txt`.
 
-See `wintest/test.cmd` for an example command line for Windows.
+See `samples/test.cmd` for an example command line for Windows.
 
-Note: Try running test_repeatcycle.cmd and watch the game of life play out to
-completion!
+See `samples/test-giant.sh` for Mac/*nix.
+
+Note: Try running test_repeatcycle.cmd and watch the game of life play out to completion!
 
 # Run Unit Tests
 `npm test`
